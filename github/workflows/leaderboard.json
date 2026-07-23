@@ -2,15 +2,15 @@
   "users": [
     {
       "device_id": "8fb7b160378f3430",
-      "username": "LION",
-      "level": 2,
+      "username": "WOOHOO",
+      "level": 6,
       "days": 0,
       "hours": 0,
-      "country": "MA",
+      "country": "",
       "avatar_id": "default_ic",
-      "is_premium": "on",
+      "is_premium": "off",
       "sex": "male"
     }
   ],
-  "last_update": "2026-07-23 09:34:04"
+  "last_update": "2026-08-08 13:50:27"
 }
