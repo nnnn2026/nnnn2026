@@ -2,8 +2,8 @@
   "users": [
     {
       "device_id": "8fb7b160378f3430",
-      "username": "pornhub",
-      "level": 1,
+      "username": "اسم غير مسموح به",
+      "level": 2,
       "days": 0,
       "hours": 0,
       "country": "MA",
@@ -12,5 +12,5 @@
       "sex": "male"
     }
   ],
-  "last_update": "2026-07-22 22:52:04"
+  "last_update": "2026-07-23 08:02:00"
 }
