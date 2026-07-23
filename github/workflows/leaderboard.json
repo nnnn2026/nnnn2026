@@ -2,7 +2,7 @@
   "users": [
     {
       "device_id": "8fb7b160378f3430",
-      "username": "WOOHOO",
+      "username": "اسم غير مسموح به",
       "level": 6,
       "days": 0,
       "hours": 0,
@@ -12,5 +12,5 @@
       "sex": "male"
     }
   ],
-  "last_update": "2026-08-08 13:50:27"
+  "last_update": "2026-08-08 14:16:56"
 }
