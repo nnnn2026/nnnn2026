@@ -1,5 +1,16 @@
 {
   "users": [
+    {
+      "device_id": "42df290a95c8630d",
+      "username": "User504",
+      "level": 1,
+      "days": 517,
+      "hours": 0,
+      "country": "",
+      "avatar_id": "default_ic",
+      "is_premium": "off",
+      "sex": "male"
+    }
   ],
-  "last_update": "2026-07-24 13:51:26"
+  "last_update": "2026-07-24 17:54:44"
 }
