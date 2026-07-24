@@ -2,15 +2,15 @@
   "users": [
     {
       "device_id": "8fb7b160378f3430",
-      "username": "ثريا الصبح 👋",
-      "level": 3,
+      "username": "اسم غير مسموح به",
+      "level": 1,
       "days": 0,
       "hours": 0,
       "country": "",
-      "avatar_id": "mnufl22ot93t3m",
+      "avatar_id": "default_ic",
       "is_premium": "on",
-      "sex": "female"
+      "sex": "male"
     }
   ],
-  "last_update": "2026-07-24 09:21:41"
+  "last_update": "2026-07-24 12:07:04"
 }
