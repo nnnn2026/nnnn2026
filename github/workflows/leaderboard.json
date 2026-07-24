@@ -1,27 +1,5 @@
 {
   "users": [
-    {
-      "device_id": "8fb7b160378f3430",
-      "username": "اسم غير مسموح به",
-      "level": 1,
-      "days": 0,
-      "hours": 0,
-      "country": "",
-      "avatar_id": "default_ic",
-      "is_premium": "on",
-      "sex": "male"
-    },
-    {
-      "device_id": "42df290a95c8630d",
-      "username": "bzjsjjs",
-      "level": 1,
-      "days": 0,
-      "hours": 0,
-      "country": "",
-      "avatar_id": "default_ic",
-      "is_premium": "off",
-      "sex": "male"
-    }
   ],
   "last_update": "2026-07-24 13:51:26"
 }
