@@ -21,7 +21,18 @@
       "avatar_id": "ava_8",
       "is_premium": "on",
       "sex": "male"
+    },
+    {
+      "device_id": "5ae1195d7fbbf467",
+      "username": "عبدو محمد",
+      "level": 1,
+      "days": 0,
+      "hours": 0,
+      "country": "",
+      "avatar_id": "default_ic",
+      "is_premium": "off",
+      "sex": "male"
     }
   ],
-  "last_update": "2026-09-18 09:08:28"
+  "last_update": "2026-09-28 23:34:29"
 }
